@@ -1,5 +1,3 @@
-# lights-trade-app
-查询资料
 cd /home/admin/openclaw/workspace/projects/lights-trade-app
 
 # 替换 YOUR_USERNAME 为你的 GitHub 用户名
